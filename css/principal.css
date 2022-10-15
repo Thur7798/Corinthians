@@ -1,0 +1,195 @@
+.linha1{
+    height: 130px;
+    background-color: black;
+
+}
+.linha2{
+    height: 50px;
+    display: flex;
+
+}
+@font-face {
+    font-family: Medium;
+    src: url(../fonts/LEMONMILK-Medium.otf);
+}
+@font-face {
+    font-family: Bold;
+    src: url(../fonts/LEMONMILK-Bold.otf);
+}
+@font-face {
+    font-family: Regula;
+    src: url(../fonts/LEMONMILK-Regular.otf);
+}
+@font-face {
+    font-family: Light;
+    src: url(../fonts/LEMONMILK-Light.otf);
+}
+.linha3{
+    height: 40px;
+    background-color: rgba(116, 116, 116, 0.795);
+}
+.linha4{
+    height: 80px;
+    font-family: Bold;
+    font-size: 30px;
+}
+.linha5{
+    height: 400px;
+}
+.linha6{
+    height: 60px;
+    font-family: Bold;
+    font-size: 30px;
+}
+.linha7{
+    height: 250px;
+}
+.linha8{
+    height: 70px;
+    
+}
+.aa{
+    border-bottom: 1px solid black;
+}
+.ç{
+    display: flex;
+    justify-content: space-around;
+}
+.ttk{
+    position: relative;
+    top: -7px;
+}
+.linha10{
+    height: 60px;
+}
+.linha11{
+    height: 50px;
+}
+.linha12{
+    height: 100px;
+}
+.coluna{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.sublinha{
+    height: 50px;
+}
+.sla{
+    position: relative;
+    top: 20px;
+}
+.col7{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: black;
+}
+.prox{
+    position: relative;
+    left: -87px;
+    color: rgba(255, 255, 255, 0.664);
+}
+.camp{
+    position: relative;
+    left: -90px;
+    top: -7px;
+    color: rgba(255, 255, 255, 0.39);
+}
+.timC{
+    position: relative;
+    top: -73px;
+    left: 25px;
+}
+.x{
+    position: relative;
+    top: -100px;
+    left: 80px;
+}
+.timF{
+    position: relative;
+    top: -43px;
+    left: 130px;
+}
+.data{
+    position: relative;
+    top: -135px;
+    color: rgba(255, 255, 255, 0.39);
+    left: 250px;
+}
+.container{
+    height: 37px;
+}
+.local{
+    position: relative;
+    top: -138px;
+    left: 306px;
+    color: rgba(255, 255, 255, 0.39);
+
+}
+.pei:hover{
+    background-color: rgba(128, 128, 128, 0.274);
+}
+.casa1{
+    
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.b{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.c{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.a1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img1{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+.b1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img2{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+.c1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img3{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+

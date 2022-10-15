@@ -1,0 +1,122 @@
+
+
+.linha1{
+    height: 130px;
+    background-color: black;
+
+}
+.sla{
+    position: relative;
+    top: 20px;
+}
+.linha2{
+    height: 50px;
+    display: flex;
+    background-color: white;
+
+}
+.col7{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px black solid;
+}
+@font-face {
+    font-family: Medium;
+    src: url(../fonts/LEMONMILK-Medium.otf);
+}
+@font-face {
+    font-family: Bold;
+    src: url(../fonts/LEMONMILK-Bold.otf);
+}
+@font-face {
+    font-family: Regula;
+    src: url(../fonts/LEMONMILK-Regular.otf);
+}
+@font-face {
+    font-family: Light;
+    src: url(../fonts/LEMONMILK-Light.otf);
+}
+.linha3{
+    height: 60px;
+    font-family: Bold;
+    color: white;
+}
+.linha4{
+    height: 30px;
+    font-family: Light;
+    color: white;
+    border-bottom: solid white 1px;
+}
+.linha5{
+    height: 280px;
+}
+.a{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.b{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.c{
+    background-color: rgba(0, 0, 0, 0.267);
+    border: solid rgba(0, 0, 0, 0.267) 2px;
+    width: 200px;
+}
+.a1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img1{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+.b1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img2{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+.c1{
+    color: black;
+    font-family: Regula;
+    position: relative;
+    background-color: white;
+    top: 220px;
+    opacity: 0.5;
+}
+.img3{
+    padding: 8px;
+    position: relative;
+    top: -35px;
+}
+.coluna{
+    display: flex;
+    justify-content: space-around;
+}
+.b1-1{
+    background-color: rgba(255, 255, 255, 0);
+}
+.idolo{
+    padding: 8px;
+    position: relative;
+    top: -15px;
+    right: 1px;
+}
+.pei:hover{
+    background-color: rgba(128, 128, 128, 0.274);
+}
